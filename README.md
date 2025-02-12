@@ -11,6 +11,15 @@ The **Sea Port Project** is an interactive OpenGL-based graphical simulation of 
 
 ---
 
+## 📷 Screenshots
+### ☀ Daytime View
+![Daytime](Screenshot 2025-02-12 114333.png)
+
+### 🌙 Nighttime View
+![Nighttime](Screenshot 2025-02-03 171909.png)
+
+---
+
 ## ✨ Features
 ✅ **Realistic Day & Night Transitions** 🌞🌙  
 ✅ **Smooth Animation of Ships & Trucks** 🚢🚛  
@@ -30,15 +39,6 @@ The **Sea Port Project** is an interactive OpenGL-based graphical simulation of 
 | 'M' or 'm'       | 🔊 Start/stop sound          |
 | Hold 'LEFT' Mouse | 💡 Toggle lighthouse light   |
 | Esc              | ❌ Exit App                   |
-
----
-
-## 📷 Screenshots
-### ☀ Daytime View
-![Daytime](Screenshot 2025-02-12 114333.png)
-
-### 🌙 Nighttime View
-![Nighttime](Screenshot 2025-02-03 171909.png)
 
 ---
 
