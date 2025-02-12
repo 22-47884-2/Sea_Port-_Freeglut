@@ -42,16 +42,23 @@ The **Sea Port Project** is an interactive OpenGL-based graphical simulation of 
 
 ---
 
-🛠️ Installation & Setup
-Ensure you have FreeGLUT installed on your system.
-Clone this repository:
-git clone https://github.com/Atik471/Sea-Port-freeglut  
-cd Sea-Port-freeglut  
-Compile the project using g++:
-g++ -o main main.cpp -lfreeglut -lopengl32 -lglu32  
-Run the executable:
-./main  
-📜 License
+## 🛠️ Installation & Setup  
+1. **Ensure you have FreeGLUT installed** on your system.  
+2. **Clone this repository**:  
+   ```sh  
+   git clone https://github.com/Atik471/Sea-Port-freeglut  
+   cd Sea-Port-freeglut  
+   ```  
+3. **Compile the project** using g++:  
+   ```sh  
+   g++ -o main main.cpp -lfreeglut -lopengl32 -lglu32  
+   ```  
+4. **Run the executable**:  
+   ```sh  
+   ./main  
+   ```  
+
+## 📜 License  
 This project is open for access and use, but modifications and redistribution are not allowed without proper credit. You may download and use it for learning purposes, but please do not modify or distribute without permission.
 
 ---
