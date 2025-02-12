@@ -16,11 +16,12 @@ The **Sea Port Project** is an interactive OpenGL-based graphical simulation of 
 📷 Screenshots
 
 🌞 Daytime Scene  
+
 ![Daytime Scene](Screenshot/Day.png)
 
 🌙 Nighttime Scene  
-![Nighttime Scene](Screenshot/Night.png)
 
+![Nighttime Scene](Screenshot/Night.png)
 
 ---
 
@@ -35,18 +36,19 @@ The **Sea Port Project** is an interactive OpenGL-based graphical simulation of 
 
 ## 🎮 Controls
 | 🎹 Key / 🖱 Mouse Input  | 🎯 Action |
-|--------------------|---------------------------|
-| 'N' or 'n'       | 🌙 Transition to night       |
-| 'D' or 'd'       | 🌞 Transition to day         |
-| Space            | ⏸ Stop scenery              |
-| 'S' or 's'       | ▶ Start scenery             |
-| 'M' or 'm'       | 🔊 Start/stop sound          |
-| Hold 'LEFT' Mouse | 💡 Toggle lighthouse light   |
-| Esc              | ❌ Exit App                   |
+|--------------------|------------------------------|
+| 'N' or 'n'         | 🌙 Transition to night      |
+| 'D' or 'd'         | 🌞 Transition to day        |
+| Space              | ⏸ Stop scenery              |
+| 'S' or 's'         | ▶ Start scenery             |
+| 'M' or 'm'         | 🔊 Start/stop sound         |
+| Hold 'LEFT' Mouse  | 💡 Toggle lighthouse light  |
+| Esc                | ❌ Exit App                 |
 
 ---
 
 ## 🛠️ Installation & Setup  
+
 1. **Ensure you have FreeGLUT installed** on your system.  
 2. **Clone this repository**:  
    ```sh  
@@ -59,8 +61,9 @@ The **Sea Port Project** is an interactive OpenGL-based graphical simulation of 
    ```  
 4. **Run the executable**:  
    ```sh  
-   ./main  
-   ```  
+   ./main
+   
+```  
 
 ## 📜 License  
 This project is open for access and use, but modifications and redistribution are not allowed without proper credit. You may download and use it for learning purposes, but please do not modify or distribute without permission.
