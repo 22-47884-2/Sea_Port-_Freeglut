@@ -1,4 +1,4 @@
-# 🌊 Sea Port Project 🚢
+# 🌊 Sea Port Scenery (FreeGLUT) 🚢
 
 ## 📌 Description
 The **Sea Port Project** is an interactive OpenGL-based graphical simulation of a bustling sea port. It features animated ships, containers, a lighthouse, and a truck, all within a dynamic day and night cycle. This project was developed as part of a computer graphics course.
