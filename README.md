@@ -13,7 +13,7 @@ The **Sea Port Project** is an interactive OpenGL-based graphical simulation of 
 
 ## 📷 Screenshots
 ### 🌞 Daytime Scene  
-![Daytime](Screenshot 2025-02-12 114333.png)
+![Daytime](Screenshot 2025-02-03 171852.png)
 
 ### 🌙 Nighttime Scene  
 ![Nighttime](Screenshot 2025-02-03 171909.png)
